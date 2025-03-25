@@ -1,0 +1,17 @@
+body {
+  /* solid background */
+    background-color: #000;
+    background:#000;
+}
+
+.card{
+    background-color:#505050
+}
+
+.blackbackground{
+    background-color:#000;
+}
+
+p{
+    color:white
+}
